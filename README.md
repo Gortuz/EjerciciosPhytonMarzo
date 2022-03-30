@@ -1,2 +1,0 @@
-# EjerciciosPhytonMarzo
-Ejercicios curso Phyton
